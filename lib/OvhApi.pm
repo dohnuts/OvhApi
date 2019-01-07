@@ -282,7 +282,7 @@ Its parameters are:
 
 Helper method that wraps a call to:
 
-    rawCall(method => 'get");
+    rawCall(method => 'get');
 
 All parameters are forwarded to L<rawCall|/rawCall>.
 
